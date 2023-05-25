@@ -1,0 +1,6 @@
+1|Dune|Frank Herbert|1990|Ace|896|Fiksi-Novel|dune.jpg
+2|Six of Crows|Leigh Bardugo|2015|Henry Holt and Co.|465|Fiksi-Novel|six-of-crows.jpg
+12|Hati-Hati Main di Dapur!|Yi Katong Dongman|2020|M&C!|128|Fiksi-Komik|hati-hati-main-di-dapur.jpg
+23|12 Dongeng Anak Sebelum Tidur|Eleonora Barsotti|2021|M&C!|168|Fiksi-Dongeng|12_DONGENG_ANAK_SEBELUM_TIDUR.jpg
+67|The Oxford Dictionary of Art and Artist|Ian Chilvers|2009|Oxford University Press|720|NonFiksi-Kamus|oxford-art-and-artist.jpg
+80|The Last Folk Hero: The Life and Myth of Bo Jackson|Jeff Pearlman|2022|Mariner Books|496|NonFiksi-Biografi|life-and-mith-of-Bo Jackson.jpg
