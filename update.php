@@ -212,7 +212,7 @@
                         <tr>
                             <td>kategori</td>
                             <td>:</td>
-                            <td><select type="text" name="kategori" size="30" required></td>
+                            <td><select type="text" name="kategori" required>
                                 <option required><?php echo $kategori ?></option>
                                 <option>Fiksi-Novel</option>
                                 <option>Fiksi-Komik</option>
@@ -225,6 +225,7 @@
                                 <option>NonFiksi-Biografi</option>
                                 <option>NonFiksi-Ensiklopedia</option>
                                 </select>
+                            </td>
                         </tr>
                         <tr>
                             <td>Cover Buku</td>
